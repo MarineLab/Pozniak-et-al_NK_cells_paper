@@ -15,6 +15,6 @@ This repository contains scripts used to analyse scRNAseq and spatial transcript
 The human data was deposited to the EGA portal with the study number: EGAS00001006488
 The mouse data was deposited to the GEO portal with the study number: GSE207592
 
-### Location of the rds file of the entire tumor micoenvironment and the immune cells
+### Location of the rds files of the entire tumor micoenvironment and the immune cells
 
 https://doi.org/10.48804/GSAXBN
