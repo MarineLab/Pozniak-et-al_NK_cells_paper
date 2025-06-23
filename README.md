@@ -1,6 +1,6 @@
 # Cytotoxic NK cells impede response to checkpoint immunotherapy in melanoma with an immune-excluded phenotype
 
-This repository contains scripts used to analyse scRNAseq and spatial transcriptomic data in the doi: xxx publication.
+This repository contains scripts used to analyse scRNAseq and spatial transcriptomic data in the https://doi.org/10.1158/2159-8290.CD-24-1208 publication.
 
 ## List of scripts / steps of the analysis
 
